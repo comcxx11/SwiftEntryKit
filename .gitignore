@@ -40,3 +40,4 @@ Carthage/Build
 # SwiftPM
 .swiftpm/
 Package.resolved
+Carthage/Checkouts/QuickLayout
